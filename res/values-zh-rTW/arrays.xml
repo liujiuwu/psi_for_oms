@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+	<!-- 要顯示農歷生日的語言（亞洲國家或地區） -->
+	<string-array name="lunarLocales">
+		<item>zh</item>
+		<item>zh_CN</item>
+		<item>zh_TW</item>
+		<item>ja</item>
+		<item>ko</item>
+		<item>ko_KR</item>
+		<item>ja_JP</item>
+	</string-array>
+
+	<!-- 十二生肖 -->
+	<string-array name="animals">
+		<item>鼠</item>
+		<item>牛</item>
+		<item>虎</item>
+		<item>兔</item>
+		<item>龍</item>
+		<item>蛇</item>
+		<item>馬</item>
+		<item>羊</item>
+		<item>猴</item>
+		<item>雞</item>
+		<item>狗</item>
+		<item>豬</item>
+	</string-array>
+</resources>
