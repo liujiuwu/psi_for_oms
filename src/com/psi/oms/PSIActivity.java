@@ -1,4 +1,4 @@
-package com.psi;
+package com.psi.oms;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -23,10 +23,10 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.psi.model.PSIModel;
-import com.psi.utils.Constants;
-import com.psi.utils.DateUtils;
-import com.psi.utils.Lunar;
+import com.psi.oms.model.PSIModel;
+import com.psi.oms.utils.Constants;
+import com.psi.oms.utils.DateUtils;
+import com.psi.oms.utils.Lunar;
 
 public class PSIActivity extends Activity {
 	private static final int[] CAKE_IMGS = { R.drawable.cake1, R.drawable.cake2, R.drawable.cake3, R.drawable.cake4 };

@@ -1,4 +1,4 @@
-package com.psi;
+package com.psi.oms;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -28,8 +28,8 @@ import android.widget.ListView;
 import android.widget.SimpleAdapter;
 import android.widget.AdapterView.OnItemClickListener;
 
-import com.psi.utils.Constants;
-import com.psi.utils.DateUtils;
+import com.psi.oms.utils.Constants;
+import com.psi.oms.utils.DateUtils;
 
 public class SettingActivity extends Activity {
 	private static final String VALUE = "value";

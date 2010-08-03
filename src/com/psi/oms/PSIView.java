@@ -1,4 +1,4 @@
-package com.psi;
+package com.psi.oms;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
@@ -18,9 +18,10 @@ import android.text.TextPaint;
 import android.util.AttributeSet;
 import android.view.View;
 
-import com.psi.model.PSIModel;
-import com.psi.utils.DateUtils;
-import com.psi.utils.Lunar;
+import com.psi.oms.R;
+import com.psi.oms.model.PSIModel;
+import com.psi.oms.utils.DateUtils;
+import com.psi.oms.utils.Lunar;
 
 public class PSIView extends View {
 	private static final String BG_PAINT = "bgPaint";

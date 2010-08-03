@@ -1,11 +1,11 @@
-package com.psi.model;
+package com.psi.oms.model;
 
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.List;
 
-import com.psi.utils.DateUtils;
+import com.psi.oms.utils.DateUtils;
 
 public class PSIModel {
 	private String name;
