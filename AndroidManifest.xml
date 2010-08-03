@@ -9,7 +9,7 @@
 		</activity>
 		<activity android:name=".SettingActivity" android:label="@string/setting_title">
 		</activity>
-		<meta-data android:value="244c61177c344f2f8239045678094c5c" android:name="Wooboo_PID" />
+		<meta-data android:value="333941c46b4b42218f497dac7b0345ec" android:name="Wooboo_PID" />
 		<meta-data android:value="1" android:name="Market_ID" />
 	</application>
 	<uses-sdk android:minSdkVersion="3" />
