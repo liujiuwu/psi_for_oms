@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:adsdk="http://schemas.android.com/apk/res/com.psi" android:layout_width="fill_parent" android:layout_height="fill_parent">
 	<com.psi.PSIView android:id="@+id/psi" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="5px" android:layout_marginRight="5px"/>
-	<com.wooboo.adlib_android.WoobooAdView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" adsdk:testing="true" adsdk:backgroundColor="#00000000" adsdk:textColor="#FFFFFFFF" adsdk:refreshInterval="30" />
+	<com.wooboo.adlib_android.WoobooAdView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" adsdk:testing="false" adsdk:backgroundColor="#00000000" adsdk:textColor="#FFFFFFFF" adsdk:refreshInterval="30" />
 </RelativeLayout>
